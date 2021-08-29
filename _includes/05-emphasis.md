@@ -2,7 +2,7 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 ❤️	: * heart :
 👍	: * +1 :
-😃 : * smile :
+😃  : * smile :
 ✨	: * sparkles :
 🎉	: * tada :
 
